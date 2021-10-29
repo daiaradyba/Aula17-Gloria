@@ -69,7 +69,7 @@ function setup() {
   
       
   trex.setCollider("rectangle",0,0,trex.width,trex.height);
-  trex.debug = true
+ 
   
   pontuacao = 0;
   
